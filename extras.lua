@@ -8,7 +8,7 @@ return {{[ [[Shaman]] ] = {2},[ [[Monk]] ] = {3},[ [[Depthswalker]] ] = {4},[ [[
 {[ [[tags]] ] = {19},[ [[link]] ] = [[https://github.com/AranosBanazir/ltracker_classes/raw/refs/heads/main/Water%20Elemental.mpackage]],[ [[desc]] ] = [[Water Elemental triggers and namespace.]],},
 {[ [[tags]] ] = {20},[ [[link]] ] = [[https://github.com/AranosBanazir/ltracker_classes/raw/refs/heads/main/Priest.mpackage]],[ [[desc]] ] = [[Priest triggers and namespace.]],},
 {[ [[tags]] ] = {21},[ [[link]] ] = [[https://github.com/AranosBanazir/ltracker_classes/raw/refs/heads/main/Psion.mpackage]],[ [[desc]] ] = [[Psion triggers and namespace.]],},
-{[ [[tags]] ] = {22},[ [[link]] ] = [[https://github.com/AranosBanazir/ltracker_classes/raw/refs/heads/main/Warriors.mpackage]],[ [[desc]] ] = [[Warriors triggers and namespace.]],},
+{[ [[tags]] ] = {22},[ [[link]] ] = [[https://github.com/AranosBanazir/ltracker_classes/raw/refs/heads/main/Warrior.mpackage]],[ [[desc]] ] = [[Warriors triggers and namespace.]],},
 {[ [[tags]] ] = {23},[ [[link]] ] = [[https://github.com/AranosBanazir/ltracker_classes/raw/refs/heads/main/Magi.mpackage]],[ [[desc]] ] = [[Magi triggers and namespace.]],},
 {[1] = [[Shaman]],},
 {[1] = [[Monk]],},
